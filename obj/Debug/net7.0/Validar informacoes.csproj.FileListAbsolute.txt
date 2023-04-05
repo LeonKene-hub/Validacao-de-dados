@@ -1,0 +1,15 @@
+C:\Users\56026708820\Desktop\Validar informacoes\bin\Debug\net7.0\Validar informacoes.exe
+C:\Users\56026708820\Desktop\Validar informacoes\bin\Debug\net7.0\Validar informacoes.deps.json
+C:\Users\56026708820\Desktop\Validar informacoes\bin\Debug\net7.0\Validar informacoes.runtimeconfig.json
+C:\Users\56026708820\Desktop\Validar informacoes\bin\Debug\net7.0\Validar informacoes.dll
+C:\Users\56026708820\Desktop\Validar informacoes\bin\Debug\net7.0\Validar informacoes.pdb
+C:\Users\56026708820\Desktop\Validar informacoes\obj\Debug\net7.0\Validar informacoes.csproj.AssemblyReference.cache
+C:\Users\56026708820\Desktop\Validar informacoes\obj\Debug\net7.0\Validar informacoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\56026708820\Desktop\Validar informacoes\obj\Debug\net7.0\Validar informacoes.AssemblyInfoInputs.cache
+C:\Users\56026708820\Desktop\Validar informacoes\obj\Debug\net7.0\Validar informacoes.AssemblyInfo.cs
+C:\Users\56026708820\Desktop\Validar informacoes\obj\Debug\net7.0\Validar informacoes.csproj.CoreCompileInputs.cache
+C:\Users\56026708820\Desktop\Validar informacoes\obj\Debug\net7.0\Validar informacoes.dll
+C:\Users\56026708820\Desktop\Validar informacoes\obj\Debug\net7.0\refint\Validar informacoes.dll
+C:\Users\56026708820\Desktop\Validar informacoes\obj\Debug\net7.0\Validar informacoes.pdb
+C:\Users\56026708820\Desktop\Validar informacoes\obj\Debug\net7.0\Validar informacoes.genruntimeconfig.cache
+C:\Users\56026708820\Desktop\Validar informacoes\obj\Debug\net7.0\ref\Validar informacoes.dll
